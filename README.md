@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p>Currently my main focus of practice and study is on full-stack Web developtment,nonetheless, i am also interested in data science and data-science and date analystics mainly due to college  and work activities.
 </p>
 
-<p>Leaving aside my professional profile,I am  a really  easy going person,a  complete geek , and a total lame when it come to sports in general 😅
+<p>Leaving aside my professional profile,I am  a really  easy going person,a  complete geek , and a total lame when it come to sports in general 😅.
 
 If you're here looking for answers I hope you can find them in one of my repositories.
 
