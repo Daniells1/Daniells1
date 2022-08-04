@@ -38,7 +38,7 @@ In case you wan't to contact  me,these are my social medias👇
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniells1&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-## When it comes to conding....
+## When it comes to coding....
 
 ![WhatsApp-Video-2022-08-04-at-01 01 46](https://user-images.githubusercontent.com/96155029/182760660-43b1e4e7-2c0c-4f9a-898c-419eaba1f4fc.gif)
 
