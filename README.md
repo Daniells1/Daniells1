@@ -43,7 +43,7 @@ In case you wan't to contact  me,these are my social medias👇
 ![WhatsApp-Video-2022-08-04-at-01 01 46](https://user-images.githubusercontent.com/96155029/182760660-43b1e4e7-2c0c-4f9a-898c-419eaba1f4fc.gif)
 
 
-## Languages that i currently use
+## Languages that i currently use:
 
 <div style="display:inline_block"><br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
